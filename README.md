@@ -16,6 +16,6 @@ A curated collection of high‑quality repositories and developers whose work ha
 
 
 
-### SQl Staturday Gobal
+### SQL Saturday Worldwide Event
 https://sqlsaturday.com/
 
